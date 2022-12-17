@@ -1,6 +1,6 @@
 @extends('layout.admin')
 
-@section('title', 'Product')
+@section('title', "Product's Recycle Bin")
 
 @section('main')
     <div class="container-fluid">
