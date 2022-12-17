@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="{{ url('') }}/plugins/daterangepicker/daterangepicker.css">
     <!-- summernote -->
     <link rel="stylesheet" href="{{ url('') }}/plugins/summernote/summernote-bs4.min.css">
+    <link rel="icon" href="{{ url('') }}/dist/img/AdminLTELogo.png">
 </head>
 
 <body class="hold-transition sidebar-mini layout-fixed">
